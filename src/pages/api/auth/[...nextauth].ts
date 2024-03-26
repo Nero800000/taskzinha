@@ -2,7 +2,7 @@ import nextAuth from "next-auth";
 import GoogleProvider from 'next-auth/providers/google'
 
 
-//http://localhost:3000/api/auth/callback/google
+
 export const authOptions = {
     
     providers:[
